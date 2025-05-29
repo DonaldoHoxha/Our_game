@@ -1,0 +1,5 @@
+# Godot 4+ ignore rules
+.godot/
+export_presets.cfg
+export.cfg
+*.import
